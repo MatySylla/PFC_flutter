@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "40407255304",
+    "project_id": "gestion-tickets-cbd59",
+    "storage_bucket": "gestion-tickets-cbd59.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:40407255304:android:526819c6cd05fba313c4bd",
+        "android_client_info": {
+          "package_name": "com.example.pfc"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD52FRA6kASwDg-rMJiqHNaBt1eed0uNKs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
