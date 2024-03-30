@@ -1,13 +1,23 @@
 {
   "project_info": {
+<<<<<<< HEAD
     "project_number": "603501719479",
     "project_id": "gestiontickets-adfa6",
     "storage_bucket": "gestiontickets-adfa6.appspot.com"
+=======
+    "project_number": "40407255304",
+    "project_id": "gestion-tickets-cbd59",
+    "storage_bucket": "gestion-tickets-cbd59.appspot.com"
+>>>>>>> e5c9d817d97ceea1f3b962b04788931c059646ef
   },
   "client": [
     {
       "client_info": {
+<<<<<<< HEAD
         "mobilesdk_app_id": "1:603501719479:android:8f1b83b5b953124e6e8232",
+=======
+        "mobilesdk_app_id": "1:40407255304:android:526819c6cd05fba313c4bd",
+>>>>>>> e5c9d817d97ceea1f3b962b04788931c059646ef
         "android_client_info": {
           "package_name": "com.example.pfc"
         }
@@ -15,7 +25,11 @@
       "oauth_client": [],
       "api_key": [
         {
+<<<<<<< HEAD
           "current_key": "AIzaSyCA4KAZu0vwkVFb6uRFb-rnTHHZRuuf5oM"
+=======
+          "current_key": "AIzaSyD52FRA6kASwDg-rMJiqHNaBt1eed0uNKs"
+>>>>>>> e5c9d817d97ceea1f3b962b04788931c059646ef
         }
       ],
       "services": {

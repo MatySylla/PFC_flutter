@@ -1,7 +1,13 @@
 {
   "file_generated_by": "FlutterFire CLI",
   "purpose": "FirebaseAppID & ProjectID for this Firebase app in this directory",
+<<<<<<< HEAD
   "GOOGLE_APP_ID": "1:603501719479:ios:ddfd1c03f1113d036e8232",
   "FIREBASE_PROJECT_ID": "gestiontickets-adfa6",
   "GCM_SENDER_ID": "603501719479"
+=======
+  "GOOGLE_APP_ID": "1:40407255304:ios:270b9fed812e060013c4bd",
+  "FIREBASE_PROJECT_ID": "gestion-tickets-cbd59",
+  "GCM_SENDER_ID": "40407255304"
+>>>>>>> e5c9d817d97ceea1f3b962b04788931c059646ef
 }

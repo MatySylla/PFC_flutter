@@ -3,17 +3,29 @@
 <plist version="1.0">
 <dict>
 	<key>API_KEY</key>
+<<<<<<< HEAD
 	<string>AIzaSyCe3LAxreRWr42h6R_SemGU14RV4jhmrE0</string>
 	<key>GCM_SENDER_ID</key>
 	<string>603501719479</string>
+=======
+	<string>AIzaSyCFU6UI7FhQMsxgKj5ePTuQULzvBdFaXpA</string>
+	<key>GCM_SENDER_ID</key>
+	<string>40407255304</string>
+>>>>>>> e5c9d817d97ceea1f3b962b04788931c059646ef
 	<key>PLIST_VERSION</key>
 	<string>1</string>
 	<key>BUNDLE_ID</key>
 	<string>com.example.pfc.RunnerTests</string>
 	<key>PROJECT_ID</key>
+<<<<<<< HEAD
 	<string>gestiontickets-adfa6</string>
 	<key>STORAGE_BUCKET</key>
 	<string>gestiontickets-adfa6.appspot.com</string>
+=======
+	<string>gestion-tickets-cbd59</string>
+	<key>STORAGE_BUCKET</key>
+	<string>gestion-tickets-cbd59.appspot.com</string>
+>>>>>>> e5c9d817d97ceea1f3b962b04788931c059646ef
 	<key>IS_ADS_ENABLED</key>
 	<false></false>
 	<key>IS_ANALYTICS_ENABLED</key>
@@ -25,6 +37,10 @@
 	<key>IS_SIGNIN_ENABLED</key>
 	<true></true>
 	<key>GOOGLE_APP_ID</key>
+<<<<<<< HEAD
 	<string>1:603501719479:ios:772c55a3e652b8816e8232</string>
+=======
+	<string>1:40407255304:ios:a8cbcbd4973466d313c4bd</string>
+>>>>>>> e5c9d817d97ceea1f3b962b04788931c059646ef
 </dict>
 </plist>
