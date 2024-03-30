@@ -1,10 +1,6 @@
 import 'package:flutter/material.dart';
-<<<<<<< HEAD
 import 'package:pfc/screens/home_page.dart';
 
-=======
-import 'package:pfc/firebase_options.dart';
->>>>>>> e5c9d817d97ceea1f3b962b04788931c059646ef
 void main() {
   runApp(const MyApp());
 }

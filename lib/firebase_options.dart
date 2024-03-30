@@ -44,7 +44,6 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions web = FirebaseOptions(
-<<<<<<< HEAD
     apiKey: 'AIzaSyAkFNIODTw7wVlt5_WJ9lTK5Jx4K_LrJi8',
     appId: '1:603501719479:web:26041f35adcc907e6e8232',
     messagingSenderId: '603501719479',
@@ -67,47 +66,15 @@ class DefaultFirebaseOptions {
     messagingSenderId: '603501719479',
     projectId: 'gestiontickets-adfa6',
     storageBucket: 'gestiontickets-adfa6.appspot.com',
-=======
-    apiKey: 'AIzaSyDQ0zA_hXoPDnnPVZF0SOG4j9Wn2LlT3pI',
-    appId: '1:40407255304:web:8aef5f8e9ec365cb13c4bd',
-    messagingSenderId: '40407255304',
-    projectId: 'gestion-tickets-cbd59',
-    authDomain: 'gestion-tickets-cbd59.firebaseapp.com',
-    storageBucket: 'gestion-tickets-cbd59.appspot.com',
-  );
-
-  static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyD52FRA6kASwDg-rMJiqHNaBt1eed0uNKs',
-    appId: '1:40407255304:android:526819c6cd05fba313c4bd',
-    messagingSenderId: '40407255304',
-    projectId: 'gestion-tickets-cbd59',
-    storageBucket: 'gestion-tickets-cbd59.appspot.com',
-  );
-
-  static const FirebaseOptions ios = FirebaseOptions(
-    apiKey: 'AIzaSyCFU6UI7FhQMsxgKj5ePTuQULzvBdFaXpA',
-    appId: '1:40407255304:ios:270b9fed812e060013c4bd',
-    messagingSenderId: '40407255304',
-    projectId: 'gestion-tickets-cbd59',
-    storageBucket: 'gestion-tickets-cbd59.appspot.com',
->>>>>>> e5c9d817d97ceea1f3b962b04788931c059646ef
     iosBundleId: 'com.example.pfc',
   );
 
   static const FirebaseOptions macos = FirebaseOptions(
-<<<<<<< HEAD
     apiKey: 'AIzaSyCe3LAxreRWr42h6R_SemGU14RV4jhmrE0',
     appId: '1:603501719479:ios:772c55a3e652b8816e8232',
     messagingSenderId: '603501719479',
     projectId: 'gestiontickets-adfa6',
     storageBucket: 'gestiontickets-adfa6.appspot.com',
-=======
-    apiKey: 'AIzaSyCFU6UI7FhQMsxgKj5ePTuQULzvBdFaXpA',
-    appId: '1:40407255304:ios:a8cbcbd4973466d313c4bd',
-    messagingSenderId: '40407255304',
-    projectId: 'gestion-tickets-cbd59',
-    storageBucket: 'gestion-tickets-cbd59.appspot.com',
->>>>>>> e5c9d817d97ceea1f3b962b04788931c059646ef
     iosBundleId: 'com.example.pfc.RunnerTests',
   );
 }
